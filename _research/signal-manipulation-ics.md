@@ -188,6 +188,6 @@ The controls we have built are necessary, but they are not sufficient.
 
 Norris Cornell is an Identity and Access Management Analyst and Technical Lead in the financial sector, where he manages IAM and PCI DSS compliance during a core banking system modernization project. With nearly 20 years of electronics technician experience, he brings a unique perspective on the convergence of RF/SIGINT, ICS/OT security, and cyber-physical systems.
 
-Norris holds a Master’s degree in SCADA Cybersecurity from Wilmington University and previously held DoD Secret clearance. He has been a volunteer and organizer for BSides Delaware since 2015 and recently presented “When Cyber Meets the Spectrum” at BSides Delaware 2025, focusing on satellite cybersecurity and critical infrastructure protection.
+Norris holds a Master’s degree in SCADA Cybersecurity. He has been a volunteer and organizer for BSides Delaware since 2015 and recently presented “When Cyber Meets the Spectrum” at BSides Delaware 2025, focusing on satellite cybersecurity and critical infrastructure protection.
 
 Norris operates CornellSecurity.com as a cybersecurity research platform. His research focuses on helping defenders understand physics-layer security threats in critical infrastructure environments.
