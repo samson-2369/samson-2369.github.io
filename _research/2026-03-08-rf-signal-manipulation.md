@@ -1,12 +1,15 @@
 ---
+---
 title: RF Signal Manipulation and Infrastructure Trust
 date: 2026-03-08
 version: v1.0
 author: Norris Cornell
 series_id: CSRS-2026-001
 category: Satellite & RF Security
+pdf: /assets/papers/CSRS-2026-001_RF_Signal_Manipulation.pdf
 description: A technical whitepaper on signal-layer trust assumptions in modern infrastructure and the cybersecurity implications of RF manipulation.
 abstract: A technical whitepaper on signal-layer trust assumptions in modern infrastructure and the cybersecurity implications of RF manipulation.
+---
 ---
 
 ## Abstract
