@@ -1,15 +1,11 @@
+
 title: Cornell Security
-email: ""
-description: >-
-  Cybersecurity research, portfolio projects, and technical writing by Norris Cornell
-  focused on critical infrastructure, ICS/SCADA security, satellite cybersecurity,
-  identity and access management, and cyber defense.
+description: Cybersecurity research and portfolio of Norris Cornell
 baseurl: ""
 url: "https://www.cornellsecurity.com"
 
 markdown: kramdown
 theme: null
-plugins: []
 permalink: pretty
 
 collections:
@@ -22,13 +18,13 @@ defaults:
       path: ""
       type: "research"
     values:
-      layout: "research"
+      layout: paper
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: post
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: default

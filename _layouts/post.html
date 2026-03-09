@@ -1,36 +1,14 @@
+
 ---
 layout: default
 ---
-<article class="paper post">
-  <header class="paper-header">
-    <p class="eyebrow">Blog</p>
-    <h1>{{ page.title }}</h1>
-    <div class="paper-meta">
-      <div>
-        <strong>Published</strong>
-        <span>{{ page.date | date: "%B %-d, %Y" }}</span>
-      </div>
-      {% if page.categories %}
-      <div>
-        <strong>Categories</strong>
-        <span>{{ page.categories | join: ", " }}</span>
-      </div>
-      {% endif %}
-      {% if page.tags %}
-      <div>
-        <strong>Tags</strong>
-        <span>{{ page.tags | join: ", " }}</span>
-      </div>
-      {% endif %}
-    </div>
-    {% if page.excerpt %}
-    <div class="paper-note">
-      <p>{{ page.excerpt }}</p>
-    </div>
-    {% endif %}
-  </header>
 
-  <div class="paper-body">
-    {{ content }}
-  </div>
+<article class="post">
+
+<h1>{{ page.title }}</h1>
+
+<p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+{{ content }}
+
 </article>

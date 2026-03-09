@@ -1,42 +1,41 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines }}">
-  <link rel="stylesheet" href="/assets/css/style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} | {% endif %}Cornell Security</title>
+<link rel="stylesheet" href="/assets/css/style.css">
 </head>
+
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <div class="brand-block">
-        <a class="brand" href="/">Cornell Security</a>
-        <p class="tagline">Cybersecurity · ICS / SCADA · Satellite / RF · IAM · Critical Infrastructure</p>
-      </div>
 
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="/">Home</a>
-        <a href="/research/">Research</a>
-        <a href="/projects/">Projects</a>
-        <a href="/blog/">Blog</a>
-        <a href="/about/">About</a>
-        <a href="/contact/">Contact</a>
-      </nav>
-    </div>
-  </header>
+<header class="site-header">
+<div class="container">
 
-  <main class="container content">
-    {{ content }}
-  </main>
+<h1 class="brand"><a href="/">Cornell Security</a></h1>
 
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <p>© 2026 Norris Cornell · CornellSecurity.com</p>
-      <p class="footer-note">
-        Independent cybersecurity analysis, portfolio work, and public-interest research.
-      </p>
-    </div>
-  </footer>
+<nav>
+<a href="/">Home</a>
+<a href="/research/">Research</a>
+<a href="/blog/">Blog</a>
+<a href="/projects/">Projects</a>
+<a href="/about/">About</a>
+<a href="/contact/">Contact</a>
+</nav>
+
+</div>
+</header>
+
+<main class="container">
+{{ content }}
+</main>
+
+<footer class="footer">
+<div class="container">
+<p>© 2026 Norris Cornell</p>
+</div>
+</footer>
+
 </body>
 </html>
