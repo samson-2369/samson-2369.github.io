@@ -1,60 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body>
-  <header>
-    <div class="nav-wrap">
-      <h1 class="site-title"><a href="{{ '/' | relative_url }}">Cornell Security</a></h1>
-      <p class="tagline">Cybersecurity Researcher | ICS / SCADA Security | Critical Infrastructure Protection</p>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/research/' | relative_url }}">Research</a>
-        <a href="{{ '/projects/' | relative_url }}">Projects</a>
-        <a href="{{ '/blog/' | relative_url }}">Blog</a>
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="{{ '/contact/' | relative_url }}">Contact</a>
-      </nav>
+---
+layout: default
+---
+<article class="paper research-paper">
+  <header class="paper-header">
+    <p class="eyebrow">Research</p>
+    <h1>{{ page.title }}</h1>
+    <div class="paper-meta">
+      <div>
+        <strong>Published</strong>
+        <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+      </div>
+      {% if page.version %}
+      <div>
+        <strong>Version</strong>
+        <span>{{ page.version }}</span>
+      </div>
+      {% endif %}
+      {% if page.category %}
+      <div>
+        <strong>Category</strong>
+        <span>{{ page.category }}</span>
+      </div>
+      {% endif %}
     </div>
+
+    {% if page.description %}
+    <div class="paper-note">
+      <strong>Abstract</strong>
+      <p>{{ page.description }}</p>
+    </div>
+    {% endif %}
   </header>
 
-  <main>
-    <article class="paper">
-      <p class="paper-series">{{ page.series_id | default: "Cornell Security Research Series" }}</p>
-      <h1 class="paper-title">{{ page.title }}</h1>
-      <div class="paper-meta">
-        <div><strong>Author:</strong> {{ page.author | default: "Norris Cornell" }}</div>
-        <div><strong>Publication Date:</strong> {{ page.date | date: "%B %-d, %Y" }}</div>
-        <div><strong>Version:</strong> {{ page.version | default: "v1.0" }}</div>
-        <div><strong>Category:</strong> {{ page.category | default: "Research" }}</div>
-      </div>
-
-      <div class="paper-note">
-        <strong>Citation:</strong><br>
-        Cornell, N. ({{ page.date | date: "%Y" }}). <em>{{ page.title }}</em>.
-        Cornell Security Research Series.
-        {{ site.url }}{{ page.url }}
-      </div>
-
-      <div class="paper-note">
-        <strong>Disclaimer:</strong><br>
-        All analysis presented on this site is based solely on publicly available information and independent study.
-        No confidential, proprietary, or classified information is used or referenced in any publication.
-      </div>
-
-      <div class="paper-content">
-        {{ content }}
-      </div>
-    </article>
-  </main>
-
-  <footer>
-    © 2026 Norris Cornell · CornellSecurity.com
-  </footer>
-</body>
-</html>
+  <div class="paper-body">
+    {{ content }}
+  </div>
+</article>
