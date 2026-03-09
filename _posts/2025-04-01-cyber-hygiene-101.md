@@ -1,17 +1,17 @@
-
 ---
-title: Cyber Hygiene 101
+layout: post
+title: "Cyber Hygiene 101"
 date: 2025-04-01
-excerpt: Why cybersecurity basics like MFA, patching, and strong passwords still prevent most attacks.
+categories: [blog, basics]
+tags: [cyber hygiene, MFA, patching, passwords, configuration]
+excerpt: "Cyber hygiene refers to routine practices like MFA, patching, and strong passwords that prevent most attacks."
 ---
 
-Cyber hygiene refers to routine practices that keep systems secure.
+Cyber hygiene refers to routine practices that keep systems and accounts secure. Despite advances in security technology, these fundamentals remain critical.
 
-Examples include:
+Practical cyber hygiene includes:
 
-- enabling MFA
-- patching systems
-- managing passwords
-- securing configurations
-
-Despite advances in security technology, these fundamentals remain critical.
+- Enabling multi‑factor authentication (MFA) on critical accounts.
+- Patching operating systems and applications promptly.
+- Managing passwords using unique, complex phrases or a password manager.
+- Securing configurations by disabling unused services and applying the principle of least privilege.

@@ -1,11 +1,15 @@
-
 title: Cornell Security
-description: Cybersecurity research and portfolio of Norris Cornell
+email: ""
+description: >-
+  Cybersecurity research, portfolio and analysis site of Norris Cornell,
+  focused on critical infrastructure, signal trust, and cyber‑defense.
+
 baseurl: ""
 url: "https://www.cornellsecurity.com"
 
 markdown: kramdown
 theme: null
+plugins: []
 permalink: pretty
 
 collections:
@@ -18,13 +22,13 @@ defaults:
       path: ""
       type: "research"
     values:
-      layout: paper
+      layout: "paper"
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: post
+      layout: "post"
   - scope:
       path: ""
     values:
-      layout: default
+      layout: "default"
