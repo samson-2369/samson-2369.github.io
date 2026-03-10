@@ -1,12 +1,5 @@
 ---
 layout: paper
-title: "Signal Manipulation in Industrial Control Systems: Why Traditional Security Fails at the Physics Layer"
-date: 2026-03-09
-pdf: /assets/papers/signal-manipulation-ics.pdf
-description: "Signal manipulation attacks against ICS systems and why traditional cybersecurity fails at the physics layer."
----
----
-layout: paper
 title: "When Signals Lie: Why Traditional ICS Security Fails at the Physics Layer"
 date: 2026-03-09
 version: "Research Essay"
