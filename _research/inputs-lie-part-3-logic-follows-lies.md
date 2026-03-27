@@ -1,3 +1,12 @@
+---
+layout: paper
+title: "Logic Follows Lies: How PLCs and RTUs Execute Adversarial Intent"
+date: 2026-03-26
+version: "Article · Part 3 of 3"
+description: "When deterministic control logic executes on manipulated inputs, failure is engineered to look like equipment malfunction. What detection actually requires at the physics layer."
+pdf: /assets/papers/logic-follows-lies-part-3.pdf
+---
+
 # Logic Follows Lies: How PLCs and RTUs Execute Adversarial Intent
 
 *Parts 1 and 2 established why systems trust inputs they shouldn't, and who is exploiting that gap at scale. Part 3 closes the loop: what does failure actually look like when deterministic logic executes on manipulated inputs — and what does detection require at this layer?*
