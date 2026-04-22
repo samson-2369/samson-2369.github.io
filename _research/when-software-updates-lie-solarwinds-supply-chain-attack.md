@@ -2,6 +2,7 @@
 title: "When Software Updates Lie: The SolarWinds Supply Chain Attack"
 date: 2026-04-21
 description: "In December 2020, 18,000 organizations discovered they had been running Russian intelligence malware for nearly a year — delivered via a software update they explicitly trusted. This analysis examines how APT29 turned SolarWinds' own code-signing infrastructure into a weapon, why every security control failed, and what the \"Inputs Lie\" framework reveals about trust boundary failures across cybersecurity domains."
+pdf: /assets/papers/when-software-updates-lie.pdf
 ---
 
 ## Executive Summary
