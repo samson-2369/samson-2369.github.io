@@ -221,7 +221,7 @@ The security controls we have built are necessary but not sufficient. They prote
 
 ## About the Author
 
-Norris Cornell is an Identity and Access Management professional and Technical Lead in the financial sector, where he manages IAM and PCI DSS compliance during a core banking system modernization. With nearly 20 years of electronics technician experience, he brings a distinctive perspective on the convergence of RF/SIGINT, ICS/OT security, and cyber-physical systems.
+Norris Cornell is an IAM Analyst II / Engineer. With nearly 20 years of electronics technician experience, he brings a distinctive perspective on the convergence of RF/SIGINT, ICS/OT security, and cyber-physical systems.
 
 He holds a Master of Science in SCADA Cybersecurity and has been a volunteer, organizer, and speaker at BSides Delaware since 2015, most recently presenting "When Cyber Meets the Spectrum" at BSides Delaware 2025 on satellite cybersecurity and critical infrastructure protection.
 

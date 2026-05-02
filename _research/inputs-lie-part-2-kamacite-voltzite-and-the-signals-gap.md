@@ -103,4 +103,4 @@ The invisible layer defenders overlook is becoming the layer attackers exploit. 
 
 ---
 
-*Norris Cornell is a cybersecurity professional specializing in IAM, ICS/OT, and satellite cybersecurity. Speaker at BSides Delaware 2025. Research and full framework at CornellSecurity.com.*
+*Norris Cornell is an IAM Analyst II / Engineer specializing in ICS/OT and satellite cybersecurity. Speaker at BSides Delaware 2025. Research and full framework at CornellSecurity.com.*

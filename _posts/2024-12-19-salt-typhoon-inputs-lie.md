@@ -173,4 +173,4 @@ That's the vulnerability. And if you're securing critical infrastructure—telec
 
 ---
 
-**Jack Cornell** is a Controls Management Specialist with nearly 20 years of electronics technician experience and a Master's degree in SCADA Cybersecurity from Wilmington University. He previously held DoD Secret clearance and has been a BSides Delaware volunteer and organizer since 2015.
+**Jack Cornell** is an IAM Analyst II / Engineer with nearly 20 years of electronics technician experience and a Master's degree in SCADA Cybersecurity from Wilmington University. He previously held DoD Secret clearance and has been a BSides Delaware volunteer and organizer since 2015.

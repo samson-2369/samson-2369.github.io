@@ -185,7 +185,7 @@ The window to get ahead of this threat is still open. Let's make the invisible v
 
 About the Author
 
-I'm a cybersecurity professional with background in electrical engineering and specialized expertise in SCADA systems and critical infrastructure security. I work as a blue team defender in identity and access management, and conduct research in the intersection of RF security and application security. My focus is translating complex technical domains—whether electrical systems, RF phenomena, or satellite architecture—into actionable security insights for security teams, operators, and incident responders.
+I'm a cybersecurity professional with background in electrical engineering and specialized expertise in SCADA systems and critical infrastructure security. I work as an IAM Analyst II / Engineer, and conduct research in the intersection of RF security and application security. My focus is translating complex technical domains—whether electrical systems, RF phenomena, or satellite architecture—into actionable security insights for security teams, operators, and incident responders.
 
 Keywords: satellite cybersecurity, SIGINT, critical infrastructure, GPS spoofing, RF security, GNSS, synchrophasor, application security, power grid security
 

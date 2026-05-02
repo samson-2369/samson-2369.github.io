@@ -100,4 +100,4 @@ ICS environments experience the consequences of trust failures in real time — 
 
 ---
 
-*Norris Cornell works in Identity and Access Management as a Technical Lead, with nearly 20 years of electronics technician experience. He specializes in the convergence of RF/SIGINT, ICS/OT security, and cyber-physical systems. He presented "When Cyber Meets the Spectrum" at BSides Delaware 2025.*
+*Norris Cornell is an IAM Analyst II / Engineer, with nearly 20 years of electronics technician experience. He specializes in the convergence of RF/SIGINT, ICS/OT security, and cyber-physical systems. He presented "When Cyber Meets the Spectrum" at BSides Delaware 2025.*

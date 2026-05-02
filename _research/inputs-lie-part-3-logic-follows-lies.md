@@ -91,6 +91,6 @@ It begins with physics.
 
 ---
 
-*Norris Cornell researches critical infrastructure security, signal trust, and physics-layer vulnerabilities at [CornellSecurity.com](http://CornellSecurity.com). This is the third and final article in the Inputs Lie series.*
+*Norris Cornell is an IAM Analyst II / Engineer who researches critical infrastructure security, signal trust, and physics-layer vulnerabilities at [CornellSecurity.com](http://CornellSecurity.com). This is the third and final article in the Inputs Lie series.*
 
 ---
