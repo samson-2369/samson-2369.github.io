@@ -533,4 +533,4 @@ The solution isn't perfect prevention. It's continuous verification, defense-in-
 
 *This analysis is part of the "Inputs Lie" series examining trust boundary failures across cybersecurity domains.*
 
-**Author:** Norris Cornell · Controls Management Specialist · SCADA Cybersecurity · [CornellSecurity.com](https://www.cornellsecurity.com)
+**Author:** Norris Cornell · IAM Analyst II / Engineer · SCADA Cybersecurity · [CornellSecurity.com](https://www.cornellsecurity.com)
