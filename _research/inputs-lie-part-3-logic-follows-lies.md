@@ -7,8 +7,6 @@ description: "When deterministic control logic executes on manipulated inputs, f
 pdf: /assets/papers/logic-follows-lies-part-3.pdf
 ---
 
-# Logic Follows Lies: How PLCs and RTUs Execute Adversarial Intent
-
 *Parts 1 and 2 established why systems trust inputs they shouldn't, and who is exploiting that gap at scale. Part 3 closes the loop: what does failure actually look like when deterministic logic executes on manipulated inputs — and what does detection require at this layer?*
 
 ---
