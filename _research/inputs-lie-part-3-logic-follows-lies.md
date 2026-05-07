@@ -2,7 +2,7 @@
 layout: paper
 title: "Logic Follows Lies: How PLCs and RTUs Execute Adversarial Intent"
 date: 2026-03-26
-version: "Article · Part 3 of 3"
+version: "Article · Part 3 of 4"
 description: "When deterministic control logic executes on manipulated inputs, failure is engineered to look like equipment malfunction. What detection actually requires at the physics layer."
 pdf: /assets/papers/logic-follows-lies-part-3.pdf
 ---
@@ -89,6 +89,6 @@ It begins with physics.
 
 ---
 
-*Norris Cornell is an IAM Analyst II / Engineer who researches critical infrastructure security, signal trust, and physics-layer vulnerabilities at [CornellSecurity.com](http://CornellSecurity.com). This is the third and final article in the Inputs Lie series.*
+*Norris Cornell is an IAM Analyst II / Engineer who researches critical infrastructure security, signal trust, and physics-layer vulnerabilities at [CornellSecurity.com](http://CornellSecurity.com). This is the third article in the Inputs Lie series.*
 
 ---
