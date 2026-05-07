@@ -2,12 +2,12 @@
 layout: paper
 title: "Inputs Lie: KAMACITE, VOLTZITE, and the Signals Gap"
 date: 2025-12-09
-version: "Article · Part 2 of 3"
+version: "Article · Part 2 of 4"
 description: "How nation-state actors exploit the signals layer that traditional ICS security frameworks don't cover — and what defenders can detect without replacing legacy infrastructure."
 pdf: /assets/papers/inputs-lie.pdf
 ---
 
-*Inputs Lie Series · Part 2 of 3*
+*Inputs Lie Series · Part 2 of 4*
 
 In December 2015, KAMACITE — the Russian threat actor Dragos tracks as a Stage 2 ICS adversary — coordinated one of the most consequential cyberattacks on critical infrastructure ever recorded. Three Ukrainian power distribution companies lost power simultaneously. 230,000 customers went dark.
 
