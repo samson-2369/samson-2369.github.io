@@ -2,12 +2,12 @@
 layout: paper
 title: "Inputs Lie: Your System Trusts Signals It Shouldn't"
 date: 2025-12-02
-version: "Article · Part 1 of 3"
+version: "Article · Part 1 of 4"
 description: "If you lie to an industrial system about its inputs, it will execute that lie faithfully into the physical world. The first article in the Inputs Lie series."
 pdf: /assets/papers/inputs-lie.pdf
 ---
 
-*Inputs Lie Series · Part 1 of 3*
+*Inputs Lie Series · Part 1 of 4*
 
 If you lie to an industrial system about its inputs, it will execute that lie faithfully into the physical world. No hesitation. No intuition. Just deterministic logic doing exactly what it was designed to do.
 
@@ -39,11 +39,12 @@ This is the core of the Inputs Lie framework: the gap isn't in the logic, the ne
 
 ## What This Series Covers
 
-This is Part 1 of a three-part series:
+This is Part 1 of a four-part series:
 
 - **Part 1 (this article)** — The foundational concept: why deterministic systems are structurally vulnerable to input manipulation
 - **Part 2** — How nation-state actors exploit this gap today, and what defenders can detect without replacing legacy infrastructure
 - **Part 3** — How PLCs and RTUs actually fail under adversarial conditions, and what that means for your detection strategy
+- **Part 4** — Five detection techniques for the gap between what the controller believes and what the process actually is
 
 The invisible layer defenders overlook is becoming the layer attackers exploit. Let's make it visible.
 
