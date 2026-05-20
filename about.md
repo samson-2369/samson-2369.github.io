@@ -33,6 +33,27 @@ I use writing, presentations, and technical projects to translate complex cybers
 - Python scripting and security tooling
 - Critical infrastructure protection
 
+## Credentials & Certifications
+
+- **CompTIA Security+** (SY0-701) — Active
+- **M.S. Cybersecurity** (SCADA concentration), Wilmington University, May 2022
+- **B.S. Computer Network Security** (Digital Forensics), Wilmington University, January 2019
+- **FEMA IS-860.c** (National Infrastructure Protection Plan)
+- **FEMA IS-913.a** (Critical Infrastructure Security and Resilience)
+
+## Community & Speaking
+
+- **Co-Lead**, OWASP Delaware — Building community security awareness
+- **Speaker & Organizer**, BSides Delaware (since 2015)
+  - 2025: "When Cyber Meets the Spectrum" — Satellite cybersecurity, GNSS/ICS/AppSec convergence
+- **InfraGard** — Philadelphia Chapter member (Financial Services Sector)
+
+## Technical Background
+
+- 20+ years electronics and hardware diagnostics
+- Proxmox lab with ICS/OT simulation (Conpot)
+- Security research environment (Iron Gate, [github.com/samson-2369/iron-gate](https://github.com/samson-2369/iron-gate))
+
 ## Research Disclaimer
 
 All analysis and research presented on this site are based solely on publicly available information and independent study. No confidential, proprietary, or classified information is used or referenced.

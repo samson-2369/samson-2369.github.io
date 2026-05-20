@@ -34,6 +34,17 @@ Every smartphone and industrial controller uses timing derived from the Global P
 
 Satellite dependencies permeate critical infrastructure. Defenders must recognise that **cybersecurity isn’t just about IP packets and software** – it extends to electromagnetic signals and hardware. By understanding the attack surface and adopting a defence‑in‑depth approach that includes signal validation, secure hardware, segmentation and monitoring, we can reduce the risk posed by threats at the intersection of cyber and the spectrum.
 
+## Related Materials
+
+This research has been presented and published across multiple venues:
+
+- **M.S. Thesis** (May 2022): "Satellite Cybersecurity Vulnerabilities and Risk Mitigation Strategies" — Original research foundation
+- **Whitepaper** (July 2025): "Satellite Cybersecurity: When Cyber Meets the Spectrum" — Expanded analysis
+- **BSides Delaware 2025** (November 2025): [Conference presentation](/presentations/bsides-delaware-2025/) synthesizing thesis + current research
+- **Blog Synthesis** (November 2025 & May 2026): Articles exploring SIGINT and ICS convergence
+
+Each publication builds on the previous, reflecting evolving understanding of how satellite, signal-layer, and application security intersect in critical infrastructure.
+
 ## Citation
 
 Cornell, N. (2025). _Satellite Cybersecurity: When Cyber Meets the Spectrum_. Cornell Security Research Archive. https://www.cornellsecurity.com/research/satellite-cybersecurity-when-cyber-meets-the-spectrum

@@ -12,10 +12,19 @@ theme: null
 plugins: []
 permalink: pretty
 
+github_username: samson-2369
+linkedin_username: norriscornell
+
 collections:
   research:
     output: true
     permalink: /research/:title/
+  projects:
+    output: true
+    permalink: /projects/:title/
+  presentations:
+    output: true
+    permalink: /presentations/:title/
 
 defaults:
   - scope:
@@ -28,6 +37,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "presentations"
+    values:
+      layout: "default"
   - scope:
       path: ""
     values:
