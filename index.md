@@ -36,6 +36,26 @@ description: Cornell Security is the portfolio and research site of Norris Corne
   </div>
 </div>
 
+<div class="panel">
+  <p class="eyebrow">Four-Part Series</p>
+  <h2>Inputs Lie</h2>
+  <p>
+    A research series examining how critical infrastructure fails when systems implicitly trust
+    unverifiable inputs — from physical sensors and RF signals through PLC control logic to
+    API endpoints. Each part builds on the last, culminating in a live detection lab.
+  </p>
+  <ol>
+    <li><a href="/research/inputs-lie-your-system-trusts-signals-it-shouldnt/">Part 1 — Your System Trusts Signals It Shouldn’t</a></li>
+    <li><a href="/research/inputs-lie-part-2-kamacite-voltzite-and-the-signals-gap/">Part 2 — KAMACITE, VOLTZITE, and the Signals Gap</a></li>
+    <li><a href="/research/inputs-lie-part-3-logic-follows-lies/">Part 3 — Logic Follows Lies: How PLCs and RTUs Execute Adversarial Intent</a></li>
+    <li><a href="/research/inputs-lie-part-4-detecting-lies-at-the-signal-layer/">Part 4 — Detecting Lies at the Signal Layer</a></li>
+  </ol>
+  <div class="button-row">
+    <a class="button" href="/research/inputs-lie-your-system-trusts-signals-it-shouldnt/">Start Reading</a>
+    <a class="button secondary" href="/research/">View All Research</a>
+  </div>
+</div>
+
 ## Latest writing
 
 {% assign recent_posts = site.posts | sort: "date" | reverse | slice: 0,3 %}
