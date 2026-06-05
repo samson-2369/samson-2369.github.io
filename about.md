@@ -36,7 +36,7 @@ I use writing, presentations, and technical projects to translate complex cybers
 ## Credentials & Certifications
 
 - **CompTIA Security+** (SY0-701) — Active
-- **M.S. Cybersecurity** (SCADA concentration), Wilmington University, May 2022
+- **MS in SCADA Cybersecurity**, Wilmington University, May 2022
 - **B.S. Computer Network Security** (Digital Forensics), Wilmington University, January 2019
 - **FEMA IS-860.c** (National Infrastructure Protection Plan)
 - **FEMA IS-913.a** (Critical Infrastructure Security and Resilience)
