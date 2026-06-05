@@ -9,7 +9,7 @@ description: Contact information for Norris Cornell for collaboration, speaking,
 
 Connect with Norris Cornell for collaboration, conference speaking, and professional opportunities in cybersecurity.
 
-You can also find me on LinkedIn: linkedin.com/in/npcornell
+You can also find me on LinkedIn: [linkedin.com/in/norriscornell](https://www.linkedin.com/in/norriscornell/)
 
 <form action="https://formspree.io/f/xgodvbrw" method="POST" style="background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:2rem;max-width:600px;margin-top:1.5rem;">
   <div style="margin-bottom:1.2rem;">
